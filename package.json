@@ -1,0 +1,19 @@
+{
+  "name": "simplepublishproject",
+  "version": "1.1.0",
+  "description": "This is a test description",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [],
+  "author": "daaadyaaar",
+  "license": "ISC",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.0"
+  }
+}
